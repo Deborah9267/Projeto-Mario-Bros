@@ -1,0 +1,32 @@
+@media (max-width: 1200px) {
+    body {
+        background-color: #f44366;
+    }
+}
+
+.fundo-video {
+    display: none;
+}
+
+.mario {
+    max-width: 50%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: auto;
+    gap: 30px;
+}
+
+.informacoes {
+    color: #ffffff;
+    text-align: center;
+}
+
+.botao {
+    background-color: cyan;
+}
